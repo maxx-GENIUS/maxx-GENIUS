@@ -30,6 +30,8 @@
 | Project / Protocol | Track / PR | Status | Description |
 | :--- | :--- | :--- | :--- |
 | **[astera-hq / Astera](https://github.com/astera-hq/Astera)** | **[PR #1569](https://github.com/astera-hq/Astera/pull/1569)** | 🟢 `CI Passed / In Review` | Added full CORS middleware support for the Soroban Event Indexer REST API (`#1549`). |
+| **[themegrill / claudegrill](https://github.com/themegrill/claudegrill)** | **[PR #9](https://github.com/themegrill/claudegrill/pull/9)** | 🟢 `Open / Clean Fix` | Fixed PR test scoping gap where unmapped source changes silently skipped suite execution (`#4`). |
+| **[mesaugat / tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal)** | **[PR #254](https://github.com/mesaugat/tech-companies-in-nepal/pull/254)** | 🟢 `Open / Directory` | Expanded Nepal's #1 tech directory by adding Treeleaf Technologies Pvt. Ltd. |
 | **[GrantFox Ecosystem](https://contribute.grantfox.xyz)** | Contributor Portal | 🦊 `Active Contributor` | Verified contributor in the Stellar blockchain open-source bounty ecosystem. |
 
 ---
