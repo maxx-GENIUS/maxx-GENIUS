@@ -1,49 +1,56 @@
 <div align="center">
 
-# 🦊 Welcome to my profile
-
-I'm **Manish (GrandFox)** — developer and systems crafter building interactive worlds, high-performance engines, and intelligent code.
+# ⚡ Manish Kumar (GrandFox) 👋
+### 🚀 Systems & Full-Stack Developer • Open Source Contributor • Tech Innovator
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=E67E22&center=true&vCenter=true&width=550&lines=Crafting+Worlds+Through+Code+%26+Logic;Game+Dev+%E2%80%A2+Godot+%E2%80%A2+Systems+Engineering;Linux+%26+Max+Performance+Enthusiast;Building+Next-Gen+Interactive+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=E67E22&center=true&vCenter=true&width=580&lines=Full-Stack+%26+Systems+Engineering;Active+Open+Source+Contributor+%E2%80%A2+Stellar;Crafting+Zero-Mistake+High-Performance+Code;Exploring+Agentic+AI+%26+Decentralized+Protocols" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Persona-GrandFox-E67E22?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Max%20Performance-green?style=for-the-badge&logo=speedtest" />
+  <a href="https://github.com/astera-hq/Astera/pull/1569">
+    <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-brightgreen?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://contribute.grantfox.xyz">
+    <img src="https://img.shields.io/badge/GrantFox-Verified%20Contributor-E67E22?style=for-the-badge&logo=stellar" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=maxx-GENIUS&label=Profile%20Views&color=e67e22&style=for-the-badge" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
 <details open>
-<summary><b>📂 Click to view full dossier & skills</b></summary>
+<summary><b>📂 Click to view full dossier, skills & live contributions</b></summary>
 <br>
+
+### 🌟 Active Open-Source Contributions
+
+| Project / Protocol | Track / PR | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **[astera-hq / Astera](https://github.com/astera-hq/Astera)** | **[PR #1569](https://github.com/astera-hq/Astera/pull/1569)** | 🟢 `CI Passed / In Review` | Added full CORS middleware support for the Soroban Event Indexer REST API (`#1549`). |
+| **[GrantFox Ecosystem](https://contribute.grantfox.xyz)** | Contributor Portal | 🦊 `Active Contributor` | Verified contributor in the Stellar blockchain open-source bounty ecosystem. |
+
+---
 
 ### 🛠️ Tech Stack & Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **🎮 Game & Systems Dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **🌐 Full-Stack & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **💻 Languages & Backend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **🌐 Web & Frameworks** | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **🗄️ Database & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **🐧 OS & Environments** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **🔧 Version Control & IDE** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **🔧 Tools & Version Control**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Current Focus & Philosophy
 
-- 🚀 Architecting high-performance systems and interactive games.
-- ⚙️ Building robust automation pipelines and modern full-stack workflows.
-- 🧠 Exploring cutting-edge AI integrations and agentic architectures.
-
----
-
-### 📂 Featured Projects
-
-- **[Project Alpha](https://github.com/maxx-GENIUS)** — *High-performance systems and developer tools.*
-- **[Interactive Worlds](https://github.com/maxx-GENIUS)** — *Game development, state machines & logic systems.*
+- ⚡ **Zero-Tolerance for Buggy Code**: Every commit verified, formatted, and strictly typed.
+- 🚀 **Real Impact**: Driving production-grade features in decentralized protocols & systems.
+- 🧠 **Continuous Mastery**: Pushing boundaries in Linux optimization, Agentic AI, and distributed architectures.
 
 ---
 
@@ -60,19 +67,19 @@ I'm **Manish (GrandFox)** — developer and systems crafter building interactive
 
 ---
 
-### 📬 Contact & Collaborations
+### 📬 Connect With Me
 
-Open for tech collaborations, indie dev discussions, and innovative projects.
+Open for high-impact open-source collaborations, systems engineering, and innovative projects.
 
 - 📧 **Email**: [maxxmanish52@gmail.com](mailto:maxxmanish52@gmail.com)
 - 🐙 **GitHub**: [@maxx-GENIUS](https://github.com/maxx-GENIUS)
+- 🦊 **GrantFox**: [contribute.grantfox.xyz](https://contribute.grantfox.xyz)
 
 ---
 
 </details>
 
-<p align="center">
-  <em>🦊 "Quiet minds craft the loudest creations." — GrandFox</em>
-</p>
-
+<div align="center">
+  <p><em>🦊 "Talk is cheap. Show me the code." — Linus Torvalds</em></p>
+  <sub>⭐ Designed with precision for <b>maxx-GENIUS</b>. Always building, always shipping.</sub>
 </div>
